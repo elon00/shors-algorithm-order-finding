@@ -1,0 +1,65 @@
+{
+  "engine": "REA_Reverse_Engineer_Anything",
+  "status": "STRUCTURE_RECONSTRUCTED",
+  "analyzed_files": 19,
+  "manifest": {
+    "main.py": {
+      "bytes": 2545
+    },
+    "package.json": {
+      "bytes": 874
+    },
+    "python-m venv venv": {
+      "bytes": 27
+    },
+    "REALITY_MANIFEST.json": {
+      "bytes": 1655
+    },
+    "requirements.txt": {
+      "bytes": 15
+    },
+    "THE-CREATOR-GOVERNANCE.md": {
+      "bytes": 442
+    },
+    "URS_EVIDENCE_CERTIFICATE.json": {
+      "bytes": 11745
+    },
+    "scripts\\audit-crypto.mjs": {
+      "bytes": 7196
+    },
+    "scripts\\generate-urs-certificate.ts": {
+      "bytes": 4662
+    },
+    "scripts\\reality-universal.ts": {
+      "bytes": 16854
+    },
+    "scripts\\rea_inspector.py": {
+      "bytes": 1485
+    },
+    "scripts\\rsi_engine.py": {
+      "bytes": 2039
+    },
+    "src\\shor_order_finding.ts": {
+      "bytes": 2297
+    },
+    "src\\types.ts": {
+      "bytes": 811
+    },
+    "tests\\nist-pqc.test.mjs": {
+      "bytes": 4368
+    },
+    "tests\\reality_check_harness.py": {
+      "bytes": 1250
+    },
+    ".github\\workflows\\ci.yml": {
+      "bytes": 736
+    },
+    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
+      "bytes": 531
+    },
+    "src\\utils\\pqcCrypto.ts": {
+      "bytes": 7779
+    }
+  },
+  "timestamp": 1794037446
+}
